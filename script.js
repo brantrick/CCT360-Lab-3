@@ -1,7 +1,7 @@
 // Image file paths
-const sunny = "images/sunny.png";
-const cloudy = "images/cloudy.png";
-const storm = "images/storm.png";
+const sunny = "sunny.png";
+const cloudy = "cloudy.png";
+const storm = "storm.png";
 
 // The two sequences
 const versionA = {
